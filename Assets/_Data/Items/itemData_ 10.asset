@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19144ee587c5d8640a7cf82f8d3db8f1, type: 3}
+  m_Name: itemData_ 10
+  m_EditorClassIdentifier: 
+  id: 10
+  itemName: XupLo
+  image: {fileID: 21300000, guid: 618bbf21830bfea448af4cc5a79446df, type: 3}
